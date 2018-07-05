@@ -1,0 +1,28 @@
+{
+  "name": "getJson",
+  "version": "1.0.0",
+  "description": "Simply make a request to a JSON service",
+  "author": { 
+	"name": "Jongkeun",
+	"email": "dldkfod@naver.com"
+  },
+  "contributors": [
+	"name": "Jongkeun",
+	"email": "dldkfod@naver.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jongkeun/get-json-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jongkeun/get-json-js/issues"
+  },  
+  "dependencies": {
+  },  
+  "scripts": {    
+  },  
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT" 
+  } ]  
+}
